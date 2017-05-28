@@ -3,13 +3,13 @@
     <metadata>
         <!-- Required elements-->
         <id>Naxam.SquareUp.Okio</id>
-        <version>1.12.0</version>
+        <version>1.13.0</version>
         <description>Xamarin Binding Library - Square Okio</description>
         <authors>Vu Duc Tuyen</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Naxam - Square Okio</title>
-        <releaseNotes>Square Okio v1.12.0</releaseNotes>
+        <releaseNotes>Square Okio v1.13.0</releaseNotes>
         <summary>Xamarin Binding Library - Square Okio</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/NAXAM/xand-squareup-okio</projectUrl>
